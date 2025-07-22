@@ -1,12 +1,9 @@
-[
-  {
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.example.bt_mvvm",
-      "sha256_cert_fingerprints": [
-        "35:29:43:DB:2D:75:4D:D0:44:07:6C:5F:BA:62:49:CB:D1:28:8C:2D:F6:8E:77:2D:47:64:DA:3E:E3:E5:D9:71"
-      ]
-    }
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.bt_mvvm",
+    "sha256_cert_fingerprints":
+    ["35:29:43:DB:2D:75:4D:D0:44:07:6C:5F:BA:62:49:CB:D1:28:8C:2D:F6:8E:77:2D:47:64:DA:3E:E3:E5:D9:71"]
   }
-]
+}]
